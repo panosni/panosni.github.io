@@ -5,12 +5,28 @@
     <link>https://panosni.github.io/event/</link>
       <atom:link href="https://panosni.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Panayiotis Nicolaides</copyright><lastBuildDate>Wed, 15 Dec 2021 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Panayiotis Nicolaides</copyright><lastBuildDate>Tue, 10 May 2022 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://panosni.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://panosni.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Uncovering Hidden Wealth – Ways to Stop Offshore Secrecy</title>
+      <link>https://panosni.github.io/talk/uncovering-hidden-wealth-ways-to-stop-offshore-secrecy/</link>
+      <pubDate>Tue, 10 May 2022 16:00:00 +0000</pubDate>
+      <guid>https://panosni.github.io/talk/uncovering-hidden-wealth-ways-to-stop-offshore-secrecy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Russian Oligarchs - What we don’t know about what the rich own</title>
+      <link>https://panosni.github.io/talk/russian-oligarchs-what-we-dont-know-about-what-the-rich-own/</link>
+      <pubDate>Thu, 31 Mar 2022 12:00:00 +0000</pubDate>
+      <guid>https://panosni.github.io/talk/russian-oligarchs-what-we-dont-know-about-what-the-rich-own/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>In discussion with Panayiotis Nicolaides: The EU Tax Observatory, Our mission</title>
