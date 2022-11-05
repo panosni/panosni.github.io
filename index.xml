@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Proposal for a European Asset Registry (with Theresa Neef, Lucas Chancel, Thomas Piketty and Gabriel Zucman)</title>
+      <link>https://panosni.github.io/project/ear/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://panosni.github.io/project/ear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EU Tax Observatory</title>
       <link>https://panosni.github.io/project/euto/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -26,10 +34,18 @@
     </item>
     
     <item>
-      <title>Proposal for a European Asset Registry (with Theresa Neef, Lucas Chancel, Thomas Piketty and Gabriel Zucman)</title>
-      <link>https://panosni.github.io/project/ear/</link>
+      <title>Oxygono (European Citizen&#39;s Prize 2022)</title>
+      <link>https://panosni.github.io/project/oxygono/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/project/ear/</guid>
+      <guid>https://panosni.github.io/project/oxygono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greek Economic Crisis</title>
+      <link>https://panosni.github.io/project/crisis_greece/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://panosni.github.io/project/crisis_greece/</guid>
       <description></description>
     </item>
     
@@ -126,22 +142,6 @@
       <link>https://panosni.github.io/talk/zew-public-finance-conference-threshold-targeting-misreporting-and-adjustment-costs-evidence-from-a-third-party-reporting-policy/</link>
       <pubDate>Thu, 06 May 2021 14:40:00 +0000</pubDate>
       <guid>https://panosni.github.io/talk/zew-public-finance-conference-threshold-targeting-misreporting-and-adjustment-costs-evidence-from-a-third-party-reporting-policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Greek Economic Crisis</title>
-      <link>https://panosni.github.io/project/crisis_greece/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/project/crisis_greece/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oxygono</title>
-      <link>https://panosni.github.io/project/oxygono/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/project/oxygono/</guid>
       <description></description>
     </item>
     
