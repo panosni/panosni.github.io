@@ -5,7 +5,7 @@
     <link>https://panosni.github.io/</link>
       <atom:link href="https://panosni.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Panayiotis Nicolaides</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Panayiotis Nicolaides</copyright><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Panayiotis Nicolaides</copyright><lastBuildDate>Wed, 07 Dec 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://panosni.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Panayiotis Nicolaides</title>
@@ -50,10 +50,26 @@
     </item>
     
     <item>
+      <title>Panel Discussion - Balancing Competing GloBE Objectives and Tax Principles in the Context of Developing Asia</title>
+      <link>https://panosni.github.io/talk/panel-discussion-balancing-competing-globe-objectives-and-tax-principles-in-the-context-of-developing-asia/</link>
+      <pubDate>Wed, 07 Dec 2022 09:00:00 +0000</pubDate>
+      <guid>https://panosni.github.io/talk/panel-discussion-balancing-competing-globe-objectives-and-tax-principles-in-the-context-of-developing-asia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Winning the Tax Lottery: Evidence from a Superdraw on Christmas Eve (_Job Market Paper_)</title>
       <link>https://panosni.github.io/publication/lottery/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://panosni.github.io/publication/lottery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EU Tax Observatory Lunchtime Seminar: Electronic Payments Lottery and Tax Revenue: Evidence from a Natural Experiment in Greece</title>
+      <link>https://panosni.github.io/talk/eu-tax-observatory-lunchtime-seminar-electronic-payments-lottery-and-tax-revenue-evidence-from-a-natural-experiment-in-greece/</link>
+      <pubDate>Fri, 09 Sep 2022 12:00:00 +0000</pubDate>
+      <guid>https://panosni.github.io/talk/eu-tax-observatory-lunchtime-seminar-electronic-payments-lottery-and-tax-revenue-evidence-from-a-natural-experiment-in-greece/</guid>
       <description></description>
     </item>
     
