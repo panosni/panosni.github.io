@@ -5,7 +5,7 @@
     <link>https://panosni.github.io/</link>
       <atom:link href="https://panosni.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Panayiotis Nicolaides</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Panayiotis Nicolaides</copyright><lastBuildDate>Wed, 07 Dec 2022 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Panayiotis Nicolaides</copyright><lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://panosni.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Panayiotis Nicolaides</title>
@@ -59,6 +59,14 @@
       <link>https://panosni.github.io/project/oxygono/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://panosni.github.io/project/oxygono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumption Taxes and Corporate Income Taxes: Evidence from Place-based VAT</title>
+      <link>https://panosni.github.io/publication/vat/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://panosni.github.io/publication/vat/</guid>
       <description></description>
     </item>
     
@@ -179,30 +187,6 @@
       <link>https://panosni.github.io/publication/who_wins/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://panosni.github.io/publication/who_wins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Corporate Tax Responses to a VAT Increase: Evidence from the Greek Islands</title>
-      <link>https://panosni.github.io/publication/vat/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/publication/vat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating Tax Avoidance Responses using EU Customs data</title>
-      <link>https://panosni.github.io/publication/customs/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/publication/customs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Payments in Tax Havens: Evidence from Belgium</title>
-      <link>https://panosni.github.io/publication/belgium-copy/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/publication/belgium-copy/</guid>
       <description></description>
     </item>
     
