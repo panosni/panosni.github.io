@@ -1,18 +1,18 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
+title: "A Dividend of Chance: Determinants and Responses of Winners in the Greek Tax Lottery" 
+date: 2024-03-30
 lastmod: 2024-05-08
-tags: ["zoology","sausage dogs","canine pulmonary efficiency"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "his paper studies the pulmonary efficiency of sausage dogs." 
+#tags: [""]
+author: ["Panayiotis Nicolaides"]
+#description: "" 
+summary: "This paper studies the determinants and responses of winners in the Greek tax lottery. The scheme incentivises consumers to switch from cash to electronic payments, thereby generating third-party information that can increase tax compliance. Tickets map directly to electronic consumption, with 1,000 winners awarded e 1,000 every month. Using administrative tax and consumption data, I reconstruct a representative taxpayer population to examine the characteristics of winners. High-income/high-consumption taxpayers win more frequently: A 10% income increase is associated with a 0.11% increase in winning probability. The self-employed record particularly large amounts of transactions, increasing their winning probability by 0.18% compared to other income categories Utilising a unique event of retroactive draws in Christmas 2017, I document heterogeneity in the winners’ responses in electronic consumption along the income and occupation dimensions. Counter to the scheme’s design that links higher winning probabilities to higher spending, I provide evidence of (a) temporary increases in electronic consumption for taxpayers in low-to-middle income quantiles and, non-responsiveness for the highest income taxpayers (b) temporary increases for wage-earners and pensioners and, a non-responsiveness for the self-employed. These results have fairness and efficacy implications, which can be mitigated through a ticket ceiling that limits the winning probabilities for high consumption individuals" 
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    image: "featured.jpg"
+    #alt: "Dimensions of a sausage dog"
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+#editPost:
+ #   URL: "https://github.com/pmichaillat/hugo-website"
+ #   Text: "Journal of Canine Science"
 
 ---
 
@@ -20,43 +20,20 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
++ [Paper](dividend.pdf)
+# [Online appendix](appendix2.pdf)
+# [Code and data](https://github.com/pmichaillat/wunk)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This paper studies the determinants and responses of winners in the Greek tax lottery. The scheme incentivises consumers to switch from cash to electronic payments, thereby generating third-party information that can increase tax compliance. Tickets map directly to electronic consumption, with 1,000 winners awarded e 1,000 every month. Using administrative tax and consumption data, I reconstruct a representative taxpayer population to examine the characteristics of winners. High-income/high-consumption taxpayers win more frequently: A 10% income increase is associated with a 0.11% increase in winning probability. The self-employed record particularly large amounts of transactions, increasing their winning probability by 0.18% compared to other income categories Utilising a unique event of retroactive draws in Christmas 2017, I document heterogeneity in the winners’ responses in electronic consumption along the income and occupation dimensions. Counter to the scheme’s design that links higher winning probabilities to higher spending, I provide evidence of (a) temporary increases in electronic consumption for taxpayers in low-to-middle income quantiles and, non-responsiveness for the highest income taxpayers (b) temporary increases for wage-earners and pensioners and, a non-responsiveness for the self-employed. These results have fairness and efficacy implications, which can be mitigated through a ticket ceiling that limits the winning probabilities for high consumption individuals
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure
 
-![](paper2.png)
-
----
-
-##### Citation
-
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
-
-```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
+![](featured.jpg)
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)

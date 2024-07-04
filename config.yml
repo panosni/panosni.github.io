@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://panosni.github.io" 
+title: Panayiotis Nicolaides
 paginate: 20
 theme: PaperMod
 
@@ -11,25 +11,20 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Publications
           url: papers/
+          weight: 1
+        - name: Talks
+          url: talks/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Resume
+          url: nicolaides_cv.pdf
+          weight: 3 
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. I specialise in public economics and taxation, in particular tax compliance and the empirical analysis of tax policy using administrative data.
+The majority of my work is guided closely by policy developments, having spent the first part of my career (2013-2019) managing the Greek economic crisis in Brussels and Athens. Since 2021, I have been working on establishing the EU Tax Observatory in Paris; I direct its scientific programme, coordinate research output and manage relations with external stakeholders."
+    author: Panayiotis Nicolaides
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -43,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers","talks","resume"]
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
@@ -54,49 +49,33 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Dr. Panayiotis Nicolaides
+          subtitle: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. Previously I served at Special Economic Advisor to finance ministers in Greece during the Greek economic crisis. I was the Alternate Member at the Eurogroup Working Group and Alternate Director at the European Stability Mechanism. I worked also for the European Commission at the beginning of my career."
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Panayiotis Nicolaides
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Talks
+              url: talks/
+            - name: Resume
+              url: nicolaides_cv.pdf
 
     socialIcons:
-        - name: cv
-          url: cv.pdf
+     #   - name: cv
+    #    url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:pan.nicolaides@gmail.com
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=ZNxFqicAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://github.com/panosni
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://twitter.com/pnicolaides
+        - name: LinkedIn
+          url: https://linkedin.com/in/panayiotis-nicolaides-07342242
 
     assets:
         disableScrollBarStyle: true
@@ -104,7 +83,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Panayiotis Nicolaides"
       icon: favicon.ico
       iconHeight: 18
 

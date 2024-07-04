@@ -1,18 +1,18 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
+title: "Consumption Taxes and Corporate Income Taxes: Evidence from Place-based VAT" 
+date: 2023-12-15
 lastmod: 2024-05-08
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+#tags: [""]
+author: ["Jules Ducept", "Evangelos Koumanakos", "Panayiotis Nicolaides"]
+#description: "" 
+summary: "Using a quasi-experimental setting, we document that corporations decrease declared profits and corporate income taxes in response to an increase in the VAT rate. In an attempt to raise tax revenue during the Greek economic crisis, a 16% VAT rate, which existed for historicopolitical reasons in Greek islands, was harmonised to the national 24% rate. We combine tax filings with Orbis and ICAP data that enable us to geolocate corporations and to construct comparable groups based on locations in or out of the preferential rate. Counteracting the reform's intended effect, declared profits decreased by 28% and corporate income taxes by 34% on a permanent basis. Macroeconomic factors and a fall in reported revenue cannot fully explain this decrease. Pervasive tax evasion in the Greek islands, where corporations might have an opportunity to adjust profits, offers a plausible explanation of the magnitude of responses." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: "featured.jpg"
+   # alt: ""
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+#editPost:
+#    URL: "https://github.com/pmichaillat/hugo-website"
+#    Text: "Journal of Oleic Science"
 
 ---
 
@@ -20,43 +20,24 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/u-star)
++ [Paper](dividend.pdf)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Using a quasi-experimental setting, we document that corporations decrease declared profits and corporate income taxes in response to an increase in the VAT rate. In an attempt to raise tax revenue during the Greek economic crisis, a 16% VAT rate, which existed for historicopolitical reasons in Greek islands, was harmonised to the national 24% rate. We combine tax filings with Orbis and ICAP data that enable us to geolocate corporations and to construct comparable groups based on locations in or out of the preferential rate. Counteracting the reform's intended effect, declared profits decreased by 28% and corporate income taxes by 34% on a permanent basis. Macroeconomic factors and a fall in reported revenue cannot fully explain this decrease. Pervasive tax evasion in the Greek islands, where corporations might have an opportunity to adjust profits, offers a plausible explanation of the magnitude of responses.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure
 
-![](paper1.png)
+![](feature.jpg)
 
----
-
-##### Citation
-
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
-```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
 
 ---
 
 ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
++ [Presentation slides](vat_present.pdf)
+# [Summary of the paper]()
