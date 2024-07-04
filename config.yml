@@ -22,8 +22,8 @@ menu:
           weight: 3 
 
 params:
-    description: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. I specialise in public economics and taxation, in particular tax compliance and the empirical analysis of tax policy using administrative data.
-The majority of my work is guided closely by policy developments, having spent the first part of my career (2013-2019) managing the Greek economic crisis in Brussels and Athens. Since 2021, I have been working on establishing the EU Tax Observatory in Paris; I direct its scientific programme, coordinate research output and manage relations with external stakeholders."
+    description: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. I specialise in public economics and taxation.
+Previously, I worked as economic advisor to finance ministers during the Greek economic crisis and, as economist at the European Commission (DG TAXUD and Task Force for Greece)"
     author: Panayiotis Nicolaides
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -49,11 +49,13 @@ The majority of my work is guided closely by policy developments, having spent t
     math: true
     profileMode:
           enabled: true
-          title: Dr. Panayiotis Nicolaides
-          subtitle: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. Previously I served at Special Economic Advisor to finance ministers in Greece during the Greek economic crisis. I was the Alternate Member at the Eurogroup Working Group and Alternate Director at the European Stability Mechanism. I worked also for the European Commission at the beginning of my career."
+          title: Panayiotis Nicolaides
+          subtitle: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. The majority of my work is guided closely by policy developments and I specialise on public economics and taxation.  <br> <br>
+          Previously, I worked as special economic advisor to finance ministers during the Greek economic crisis and, 
+          as economist at the European Commission (DG Taxation and Customs Union and, Task Force for Greece)."
           imageUrl: "picture.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 310
+          imageHeight: 425
           imageTitle: Panayiotis Nicolaides
           buttons:
             - name: Publications

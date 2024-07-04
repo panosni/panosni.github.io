@@ -21,8 +21,6 @@ cover:
 ##### Download
 
 + [Paper](ECTD.pdf)
-# [Online appendix](appendix2.pdf)
-[Code and data](https://github.com/panosni/ECTD)
 
 ---
 
@@ -37,3 +35,7 @@ How eﬀective are features of the income tax in incentivising a change in behav
 ![](featured.jpg)
 
 ---
+
+##### Related Material
+
++ [Code](https://github.com/panosni/ECTD)

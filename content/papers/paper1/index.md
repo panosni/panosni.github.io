@@ -11,8 +11,8 @@ cover:
    # alt: ""
     relative: false
 #editPost:
-#    URL: "https://github.com/pmichaillat/hugo-website"
-#    Text: "Journal of Oleic Science"
+#    URL: ""
+#    Text: ""
 
 ---
 
@@ -32,7 +32,7 @@ Using a quasi-experimental setting, we document that corporations decrease decla
 
 ##### Figure
 
-![](feature.jpg)
+![](featured.jpg)
 
 
 ---
@@ -40,4 +40,4 @@ Using a quasi-experimental setting, we document that corporations decrease decla
 ##### Related material
 
 + [Presentation slides](vat_present.pdf)
-# [Summary of the paper]()
+

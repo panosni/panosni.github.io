@@ -32,13 +32,13 @@ This paper studies a tax lottery in Greece and documents an increase in VAT reve
 
 ##### Figure
 
-![](feature.png)
+![](featured.png)
 
 
 ---
 
 ##### Related material
 
-# [Presentation slides](vat_present.pdf)
-# [Summary of the paper]()
++ [Presentation slides](vat_present.pdf)
+
 
