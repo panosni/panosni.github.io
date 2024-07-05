@@ -50,10 +50,10 @@ Previously, I worked as economic advisor to finance ministers during the Greek e
     profileMode:
           enabled: true
           title: Panayiotis Nicolaides
-          subtitle: "I am Director of Research at the [EU Tax Observatory,](https://www.taxobservatory.eu)[Paris School of Economics.](https://www.parisschoolofeconomics.eu) 
+          subtitle: "I am the Director of Research at the [EU Tax Observatory,](https://www.taxobservatory.eu)[Paris School of Economics.](https://www.parisschoolofeconomics.eu) 
           I specialise on the economics of taxation.  <br> <br>
           Previously, I worked as economist at the European Commission and as special economic advisor to finance ministers during the Greek economic crisis. I served as
-          Alternate to the Eurogroup Working Group and Alternate Director at European Stability Mechanism's Board of Directors. <br>"
+          Alternate to the Eurogroup Working Group and as Alternate Director at European Stability Mechanism's Board of Directors. <br>"
           imageUrl: "picture.jpg"
           imageWidth: 310
           imageHeight: 425
@@ -75,6 +75,8 @@ Previously, I worked as economic advisor to finance ministers during the Greek e
           url: https://scholar.google.com/citations?user=ZNxFqicAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/panosni
+        - name: ORCID
+          url: https://orcid.org/0000-0003-2289-428X
         - name: Twitter
           url: https://twitter.com/pnicolaides
         - name: LinkedIn

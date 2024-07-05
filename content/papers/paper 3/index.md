@@ -1,6 +1,6 @@
 ---
 title: "Winning the Tax Lottery: Evidence from a Superdraw on Christmas Eve" 
-date: 2023-12-13
+date: 2023-09-13
 lastmod: 2024-05-08
 #tags: [""]
 author: ["Panayiotis Nicolaides"]
