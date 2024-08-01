@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Papers on Panayiotis Nicolaides</title>
-    <link>https://panosni.github.io/papers/</link>
+    <link>http://localhost:1313/papers/</link>
     <description>Recent content in Papers on Panayiotis Nicolaides</description>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.128.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://panosni.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Effective sanctions against oligarchs and the role of a European Asset Registry in Eric Monnet and Antoine Vauchez (eds) L’Europe, une puissance publique? (PUF), 2024</title>
-      <link>https://panosni.github.io/papers/paper-6/</link>
+      <link>http://localhost:1313/papers/paper-6/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/papers/paper-6/</guid>
+      <guid>http://localhost:1313/papers/paper-6/</guid>
       <description>À partir de l’exemple de l’application des sanctions financières contre les oligarques russes, nous plaidons en faveur de la mise en place d’un registre européen des actifs qui permettrait de recenser les propriétaires de l’ensemble des différents actifs, notamment financiers ou immobiliers, détenus en Europe. La Russie est le pays d’Europe où l’inégalité des richesses est la plus forte, et les ressortissants russes les plus riches dissimulent une grande partie de leur fortune dans des paradis fiscaux. L’architecture actuelle du système financier mondial empêche d’avoir une connaissance complète de la pro- priété effective de tous les types d’actifs et de toutes les juridictions. Les informations déjà existantes sur la pro- priété de ces actifs, actuellement dispersées, pourraient être rassemblées au niveau européen. Cela changerait la donne et permettrait de mieux cibler les sanctions et de disposer d’outils efficaces pour lutter contre le blanchi- ment d’argent, la corruption et l’évasion fiscale. L’Union européenne pourrait ainsi jouer un rôle de pionnier en franchissant la prochaine étape vers une plus grande transparence financière.</description>
     </item>
     <item>
       <title>A Dividend of Chance: Determinants and Responses of Winners in the Greek Tax Lottery</title>
-      <link>https://panosni.github.io/papers/paper2/</link>
+      <link>http://localhost:1313/papers/paper2/</link>
       <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/papers/paper2/</guid>
+      <guid>http://localhost:1313/papers/paper2/</guid>
       <description>This paper studies the determinants and responses of winners in the Greek tax lottery. The scheme incentivises consumers to switch from cash to electronic payments, thereby generating third-party information that can increase tax compliance. Tickets map directly to electronic consumption, with 1,000 winners awarded e 1,000 every month. Using administrative tax and consumption data, I reconstruct a representative taxpayer population to examine the characteristics of winners. High-income/high-consumption taxpayers win more frequently: A 10% income increase is associated with a 0.11% increase in winning probability. The self-employed record particularly large amounts of transactions, increasing their winning probability by 0.18% compared to other income categories Utilising a unique event of retroactive draws in Christmas 2017, I document heterogeneity in the winners’ responses in electronic consumption along the income and occupation dimensions. Counter to the scheme’s design that links higher winning probabilities to higher spending, I provide evidence of (a) temporary increases in electronic consumption for taxpayers in low-to-middle income quantiles and, non-responsiveness for the highest income taxpayers (b) temporary increases for wage-earners and pensioners and, a non-responsiveness for the self-employed. These results have fairness and efficacy implications, which can be mitigated through a ticket ceiling that limits the winning probabilities for high consumption individuals</description>
     </item>
     <item>
       <title>Consumption Taxes and Corporate Income Taxes: Evidence from Place-based VAT</title>
-      <link>https://panosni.github.io/papers/paper1/</link>
+      <link>http://localhost:1313/papers/paper1/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/papers/paper1/</guid>
+      <guid>http://localhost:1313/papers/paper1/</guid>
       <description>Using a quasi-experimental setting, we document that corporations decrease declared profits and corporate income taxes in response to an increase in the VAT rate. In an attempt to raise tax revenue during the Greek economic crisis, a 16% VAT rate, which existed for historicopolitical reasons in Greek islands, was harmonised to the national 24% rate. We combine tax filings with Orbis and ICAP data that enable us to geolocate corporations and to construct comparable groups based on locations in or out of the preferential rate. Counteracting the reform&amp;rsquo;s intended effect, declared profits decreased by 28% and corporate income taxes by 34% on a permanent basis. Macroeconomic factors and a fall in reported revenue cannot fully explain this decrease. Pervasive tax evasion in the Greek islands, where corporations might have an opportunity to adjust profits, offers a plausible explanation of the magnitude of responses.</description>
     </item>
     <item>
       <title>Global Tax Evasion Report 2024</title>
-      <link>https://panosni.github.io/papers/paper5/</link>
+      <link>http://localhost:1313/papers/paper5/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/papers/paper5/</guid>
+      <guid>http://localhost:1313/papers/paper5/</guid>
       <description>Over the last 10 years, governments have launched major initiatives to reduce international tax evasion. Yet despite the importance of these developments, little is known about the effects of these new policies. Is global tax evasion falling or rising? Are new issues emerging, and if so, what are they? This report addresses these questions thanks to an unprecedented international research collaboration building on the work of more than 100 researchers globally.</description>
     </item>
     <item>
       <title>Winning the Tax Lottery: Evidence from a Superdraw on Christmas Eve</title>
-      <link>https://panosni.github.io/papers/paper-3/</link>
+      <link>http://localhost:1313/papers/paper-3/</link>
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/papers/paper-3/</guid>
+      <guid>http://localhost:1313/papers/paper-3/</guid>
       <description>This paper studies a tax lottery in Greece and documents an increase in VAT revenue. The lottery incentivises the use of electronic payments over cash to ﬁght tax evasion by allocating EUR 1 million in prizes every month. Tickets are awarded automatically when individuals complete retail transactions by electronic means. I exploit a superdraw at the start of the lottery in Christmas Eve 2017; participation was unanticipated and individuals could not inﬂuence their winning chances. I estimate that regional VAT revenue increased by 0.01% per additional winner (or by EUR 2,700 compared to a EUR 1,000 winning prize). This eﬀect can be explained through winners, who increased their electronic consumption by 14%. Lasting for ﬁve months, this channel alone cannot explain the entire VAT eﬀect. A second channel is documented through spillover eﬀects from winners to non-winners. The lottery’s positive outcome demonstrates the potential of incentives for electronic payments to raise tax revenue.</description>
     </item>
     <item>
       <title>Income Tax Incentives for Electronic Payments: Evidence from Greece’s Electronic Consumption Tax Discount</title>
-      <link>https://panosni.github.io/papers/paper4/</link>
+      <link>http://localhost:1313/papers/paper4/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://panosni.github.io/papers/paper4/</guid>
+      <guid>http://localhost:1313/papers/paper4/</guid>
       <description>How eﬀective are features of the income tax in incentivising a change in behaviour? I studyhow Greek taxpayers respond to a novel policy, which conditions their personal tax allowance on electronic consumption, requiring speciﬁc amounts to be reached during the ﬁnancial year. Aimed at incentivising a change from cash to electronic payments, the policy includes almost all taxpayers by default, generates monthly electronic spending information and pre-ﬁlls the annual amounts spent in tax returns. Using a unique administrative dataset of 50,000 randomly-drawn taxpayers, I document (a) strong responses to the policy during tax ﬁling, with 92% reporting the required amounts to gain the full tax discount, (b) evidence of increased reported amounts if consumption is lower than required, (c) economically and statistically signiﬁcant electronic consumption responses in some taxpayers as the end-of-year deadline approaches. Adjustment costs in the form of policy inattention, liquidity constraints and low perceived costs of audit can explain the mixed policy outcome. The results suggest that linking incentives to existing features of the income tax system can trigger large responses, but the overall eﬀect depends on adjustment costs in the taxpayer population.</description>
     </item>
   </channel>

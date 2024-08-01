@@ -11,21 +11,24 @@ taxonomies:
 
 menu:
     main:
-        - name: Publications
+        - name: Research
           url: papers/
           weight: 1
         - name: Talks
           url: talks/
           weight: 2
+        - name: Social Initiatives
+          url: projects/
+          weight: 3
         - name: Resume
           url: nicolaides_cv.pdf
-          weight: 3 
+          weight: 4 
 
 params:
-    description: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. I specialise in public economics and taxation.
+    description: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. I specialise on the economics of taxation.
 Previously, I worked as economic advisor to finance ministers during the Greek economic crisis and, as economist at the European Commission (DG TAXUD and Task Force for Greece)"
     author: Panayiotis Nicolaides
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-QMTGMPMS4L"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -38,7 +41,7 @@ Previously, I worked as economic advisor to finance ministers during the Greek e
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","talks","resume"]
+    MainSections: ["papers","talks","social intitiaves","resume"]
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
@@ -50,10 +53,10 @@ Previously, I worked as economic advisor to finance ministers during the Greek e
     profileMode:
           enabled: true
           title: Panayiotis Nicolaides
-          subtitle: "I am the Director of Research at the [EU Tax Observatory,](https://www.taxobservatory.eu)[Paris School of Economics.](https://www.parisschoolofeconomics.eu) 
-          I specialise on the economics of taxation.  <br> <br>
-          Previously, I worked as economist at the European Commission and as special economic advisor to finance ministers during the Greek economic crisis. I served as
-          Alternate to the Eurogroup Working Group and as Alternate Director at European Stability Mechanism's Board of Directors. <br>"
+          subtitle: "I am the Director of Research at the [EU Tax Observatory,](https://www.taxobservatory.eu) [Paris School of Economics.](https://www.parisschoolofeconomics.eu) 
+          I specialise on the economics of taxation, working on both policy and research. <br> <br>
+          Previously, I worked at the European Commission and, as special economic advisor to finance ministers during the Greek economic crisis. From 2016 to 2019, I served as
+          Alternate Member to the Eurogroup Working Group and as Alternate Director at European Stability Mechanism's Board of Directors. <br>"
           imageUrl: "picture.jpg"
           imageWidth: 310
           imageHeight: 425
@@ -63,25 +66,23 @@ Previously, I worked as economic advisor to finance ministers during the Greek e
               url: papers/
             - name: Talks
               url: talks/
+            - name: Social Initiatives
+              url: projects/
             - name: Resume
               url: nicolaides_cv.pdf
-
     socialIcons:
-     #   - name: cv
-    #    url: cv.pdf
-        - name: Email
-          url: mailto:pan.nicolaides@gmail.com
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=ZNxFqicAAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/panosni
-        - name: ORCID
-          url: https://orcid.org/0000-0003-2289-428X
-        - name: Twitter
-          url: https://twitter.com/pnicolaides
-        - name: LinkedIn
-          url: https://linkedin.com/in/panayiotis-nicolaides-07342242
-
+            - name: Email
+              url: mailto:pan.nicolaides@gmail.com
+            - name: Google Scholar
+              url: https://scholar.google.com/citations?user=ZNxFqicAAAAJ&hl=en
+            - name: GitHub
+              url: https://github.com/panosni
+            - name: ORCID
+              url: https://orcid.org/0000-0003-2289-428X
+            - name: LinkedIn
+              url: https://linkedin.com/in/panayiotis-nicolaides-07342242 
+            - name: Twitter
+              url: https://twitter.com/pnicolaides
     assets:
         disableScrollBarStyle: true
     cover:
@@ -90,7 +91,7 @@ Previously, I worked as economic advisor to finance ministers during the Greek e
     label:
       text: "Panayiotis Nicolaides"
       icon: favicon.ico
-      iconHeight: 18
+      iconHeight: 30
 
 markup:
     goldmark:
