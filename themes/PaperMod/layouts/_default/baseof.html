@@ -8,6 +8,12 @@
 <head>
     {{- partial "head.html" . }}
 </head>
+<head>
+    {{ if and (hugo.IsProduction) (.Site.Params.googleAnalyticsID) }}
+    {{ partial "analytics-gtag.html" . }}
+    {{ end }}
+    ...
+</head>
 
 <body class="
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
