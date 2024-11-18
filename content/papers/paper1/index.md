@@ -20,7 +20,7 @@ cover:
 
 ##### Download
 
-+ [Paper](dividend.pdf)
++ [Paper](vat.pdf)
 
 ---
 

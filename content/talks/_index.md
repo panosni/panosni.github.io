@@ -8,16 +8,17 @@ description: "Past and future talks in conferences, seminars and panel discussio
 ### Academic Presentations
 
 -  Finance/Accounting/Taxation Research Workshop, Freie Universität, Berlin - Germany, 22 November 2024
--  [117th Annual Conference, National Tax Association](https://nta.confex.com/nta/2024/cfp.cgi), Detroit, Michigan - US, 14-16 November 2024
 -  [RSIT Brown Bag Seminar](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/forschung/research-seminars/rsit-brown-bag-seminar/), Tübingen - Germany, 5 November 2024
--  Tax and Inequality Workshop in UCD, Dublin - Ireland, 4 October 2024
+-  [Tax and Inequality Workshop in UCD](https://www.ucd.ie/economics/newsandevents/taxandinequalityworkshop/), Dublin - Ireland, 4 October 2024
 -  [80th Annual Congress, IIPF 2024](https://iipf2024.vse.cz), Prague - Czechia, 21-23 August 2024
 -  [CRETE 2024](https://www2.aueb.gr/conferences/Crete2024/), Milos Island - Greece, 10-14 July 2024
 -  [ZEW Public Finance Conference 2024](https://www.zew.de/en/events-and-professional-training/detail/2024-zew-public-finance-conference/4254?cHash=64320627851bf1ef140eb94c8dd73e6c), Mannheim - Germany, 16-17 May 2024
 
 ### Policy Panels
 
+-  Panelist, ENA Institute 1974 - 2024 Third Hellenic Republic Conference, Athens - Greece, 15 November 2024
 -  Panelist, AKEL Economic Forum 2024, Nicosia - Cyprus, 30 October 2024
+-  Public Hearing, [FISC Committee EU Parliament](https://www.europarl.europa.eu/committees/en/public-hearing-on-simplification-and-tra/product-details/20240910CHE12682), Brussels - Belgium, 17 October 2024
 -  Panelist, [Cyprus Forum 2024](https://cyprusforum.cy), Nicosia - Cyprus, 3 October 2024
 -  Panelist, [ETAF Conference](https://etaf.tax/wp-content/uploads/2024/04/programme-etaf-conference-17-april-final-1.pdf), Brussels - Belgium, 17 April 2024
 
