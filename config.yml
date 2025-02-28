@@ -1,6 +1,7 @@
 baseURL: "https://panosni.github.io" 
 title: Panayiotis Nicolaides
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -17,12 +18,9 @@ menu:
         - name: Talks
           url: talks/
           weight: 2
-        - name: Social Initiatives
-          url: projects/
-          weight: 3
         - name: Resume
           url: nicolaides_cv.pdf
-          weight: 4 
+          weight: 3 
 
 params:
     description: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. I specialise on the economics of taxation.
@@ -66,8 +64,6 @@ Previously, I worked as economic advisor to finance ministers during the Greek e
               url: papers/
             - name: Talks
               url: talks/
-            - name: Social Initiatives
-              url: projects/
             - name: Resume
               url: nicolaides_cv.pdf
     socialIcons:
@@ -81,8 +77,8 @@ Previously, I worked as economic advisor to finance ministers during the Greek e
               url: https://orcid.org/0000-0003-2289-428X
             - name: LinkedIn
               url: https://linkedin.com/in/panayiotis-nicolaides-07342242 
-            - name: Twitter
-              url: https://twitter.com/pnicolaides
+            - name: X
+              url: https://x.com/pnicolaides
     assets:
         disableScrollBarStyle: true
     cover:
