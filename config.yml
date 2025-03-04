@@ -23,8 +23,7 @@ menu:
           weight: 3 
 
 params:
-    description: "I am Director of Research at the EU Tax Observatory, Paris School of Economics. I specialise on the economics of taxation.
-Previously, I worked as economic advisor to finance ministers during the Greek economic crisis and, as economist at the European Commission (DG TAXUD and Task Force for Greece)"
+    description: "I am a Senior Economist at the World Bank, focusing on tax policy and administration in the East Asia and Pacific region. Previously, I was Director of Research at the EU Tax Observatory, Paris School of Economics, economic advisor to finance ministers during the Greek economic crisis and, economist at the European Commission (DG TAXUD and Task Force for Greece)"
     author: Panayiotis Nicolaides
     googleAnalyticsID: "G-QMTGMPMS4L"
     DateFormat: "January 2006"
@@ -51,10 +50,10 @@ Previously, I worked as economic advisor to finance ministers during the Greek e
     profileMode:
           enabled: true
           title: Panayiotis Nicolaides
-          subtitle: "I am the Director of Research at the [EU Tax Observatory,](https://www.taxobservatory.eu) [Paris School of Economics.](https://www.parisschoolofeconomics.eu) 
-          I specialise on the economics of taxation, working on both policy and research. <br> <br>
-          Previously, I worked at the European Commission and, as special economic advisor to finance ministers during the Greek economic crisis. From 2016 to 2019, I served as
-          Alternate Member to the Eurogroup Working Group and as Alternate Director at European Stability Mechanism's Board of Directors. <br>"
+          subtitle: "I am a Senior Economist at the World Bank focusing on tax policy in East Asia and Pacific region.
+          <br> <br>
+          Previously, I was Director of Research at the [EU Tax Observatory,](https://www.taxobservatory.eu) [Paris School of Economics.](https://www.parisschoolofeconomics.eu) I worked also at the European Commission and, as special economic advisor to finance ministers during the Greek economic crisis. From 2016-2019, I served as
+          Alternate Member to the Eurogroup Working Group and Alternate Director at European Stability Mechanism's Board of Directors. <br>"
           imageUrl: "picture.jpg"
           imageWidth: 310
           imageHeight: 425
